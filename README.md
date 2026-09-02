@@ -4,7 +4,10 @@
 **TCC – 202X.X**
 
 ---
+> **Status:** Este projeto encontra-se em fase inicial de prototipação e definição de escopo. As mecânicas, a identidade visual e as tecnologias apresentadas são preliminares e poderão sofrer alterações durante o desenvolvimento.
+
 **HanGo-game** é um nome inicial para o projeto e poderá sofrer alterações. Trata-se de uma proposta de jogo digital voltado à aprendizagem de mandarim como **segunda língua**, com foco na associação entre os caracteres **hanzi** e o **pinyin**. O jogo será planejado como um material complementar, disponibilizado no formato de um site interativo, podendo ser utilizado como apoio ao ensino em cursos de idiomas.
+
 
 ### Escopo do projeto
 
